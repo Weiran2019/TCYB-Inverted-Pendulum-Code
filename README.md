@@ -10,7 +10,7 @@ All experimental procedures were approved by the Shanghai Key Laboratory of Powe
 ## Citation
 If you find NIPVSS useful in your research, please consider citing:
 
-<code>@article{jiang2019context,
+<pre><code>@article{jiang2019context,
   title={Context-Aware Mouse Behavior Recognition Using Hidden Markov Models},
   author={Jiang, Zheheng and Crookes, Danny and Green, Brian D and Zhao, Yunfeng and Ma, Haiping and Li, Ling and Zhang, Shengping and
   Tao, Dacheng and Zhou, Huiyu},
@@ -20,4 +20,4 @@ If you find NIPVSS useful in your research, please consider citing:
   pages={1133--1148},
   year={2019},
   publisher={IEEE}
-}</code>
+}</code></pre>
