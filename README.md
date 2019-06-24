@@ -1,1 +1,3 @@
-# TCYB-Inverted-Pendulum-Code
+# Real-Time $H_{\infty}$ Control of Networked Inverted Pendulum Visual Servo Systems
+## Introduction
+Smart devices, e.g. the inverted pendulum systems which involve visual measurements, deploy machine vision technologies for processing visual inputs in order to achieve visual servo feedback control. This control process very likely introduces image-induced computational delay (i.e., delay induced by the image processing time) and computational errors (i.e., computational errors of image processing), which affect the performance of the control system and cause instability of the system. This practical challenge strongly motivates people to develop an effective and efficient system of the networked inverted pendulum visual servo systems (NIPVSSs) for better system performance. Here, we release the code of our paper for the visual servo feedback control of the NIPVSS in a video. 
