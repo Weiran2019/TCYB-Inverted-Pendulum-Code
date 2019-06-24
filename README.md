@@ -10,14 +10,11 @@ All experimental procedures were approved by the Shanghai Key Laboratory of Powe
 ## Citation
 If you find NIPVSS useful in your research, please consider citing:
 
-<pre><code>@article{jiang2019context,
-  title={Context-Aware Mouse Behavior Recognition Using Hidden Markov Models},
-  author={Jiang, Zheheng and Crookes, Danny and Green, Brian D and Zhao, Yunfeng and Ma, Haiping and Li, Ling and Zhang, Shengping and
-  Tao, Dacheng and Zhou, Huiyu},
-  journal={IEEE Transactions on Image Processing},
-  volume={28},
-  number={3},
-  pages={1133--1148},
-  year={2019},
-  publisher={IEEE}
-}</code></pre>
+<pre><code>
+@article{du2019context, 
+author={Dajun Du, Changda Zhang, Yuehua Song, Huiyu Zhou, Xue Li, Minrui Fei, Wangpei Li}, 
+journal={IEEE Transactions on Cybernetics}, 
+title={Real-Time $H_{\infty}$ Control of Networked Inverted Pendulum Visual Servo Systems}, 
+note={doi: 10.1109/TCYB.2019.2921821}
+}
+</code></pre>
