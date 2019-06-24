@@ -7,3 +7,16 @@ The demo is divided into 5 folders. Run the .m file in the every folders. The re
 ![image](https://github.com/Weiran2019/TCYB-Inverted-Pendulum-Code/blob/master/Experiments_Inveted_Pendulum_Platform.gif)
 ## Ethical proof
 All experimental procedures were approved by the Shanghai Key Laboratory of Power Station Automation Technology, School of Mechatronical Engineering and Automation, Shanghai University, Shanghai 200444, China.
+## Citation
+If you find NIPVSS useful in your research, please consider citing:
+``@article{jiang2019context,
+  title={Context-Aware Mouse Behavior Recognition Using Hidden Markov Models},
+  author={Jiang, Zheheng and Crookes, Danny and Green, Brian D and Zhao, Yunfeng and Ma, Haiping and Li, Ling and Zhang, Shengping and
+  Tao, Dacheng and Zhou, Huiyu},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={3},
+  pages={1133--1148},
+  year={2019},
+  publisher={IEEE}
+}``
