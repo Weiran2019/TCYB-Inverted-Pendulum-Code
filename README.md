@@ -9,7 +9,6 @@ The demo is divided into 5 folders. Run the .m file in the every folders. The re
 All experimental procedures were approved by the Shanghai Key Laboratory of Power Station Automation Technology, School of Mechatronical Engineering and Automation, Shanghai University, Shanghai 200444, China.
 ## Citation
 If you find NIPVSS useful in your research, please consider citing:
-
 <pre><code>
 @article{du2019context, 
 author={Dajun Du, Changda Zhang, Yuehua Song, Huiyu Zhou, Xue Li, Minrui Fei, Wangpei Li}, 
